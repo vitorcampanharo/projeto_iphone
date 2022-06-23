@@ -7,15 +7,13 @@ body{
     background-image: url(pacote-d013/imagens/fundo-madeira.jpg);
     background-position: center center;
     background-repeat: no-repeat;
-    background-size: cover;
     background-attachment: fixed;
+    background-size: cover;
 }
-.iphone{
+#iphone{
+    position: absolute;
+    
+}
+#iphone img{
     height: 500px;
-    margin: auto;
-    position: center;
-}
-a{
-    height: 100px;
-    width: 100px;
 }
