@@ -38,3 +38,18 @@ main{
     transform: translate(-50%, -50%);
     background-size: contain;
 }
+#home{
+    height: 70px;
+    width: 70px;
+    border-radius: 50px;
+}
+#youtube{
+    height: 70px;
+    width: 70px;
+    border-radius: 50px;
+}
+#faceboock{
+    height: 70px;
+    width: 70px;
+    border-radius: 50px;
+}
