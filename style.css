@@ -38,18 +38,35 @@ main{
     transform: translate(-50%, -50%);
     background-size: contain;
 }
+ul{
+    text-align: right; 
+}
+li{
+    padding: 10px;
+}
+li img:hover{
+    height: 60px;
+    width: 60px;
+    padding-right: 10px;
+    transition-duration: 0.5s;
+}
 #home{
-    height: 70px;
-    width: 70px;
-    border-radius: 50px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
 }
 #youtube{
-    height: 70px;
-    width: 70px;
-    border-radius: 50px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
 }
 #faceboock{
-    height: 70px;
-    width: 70px;
-    border-radius: 50px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+#instagran{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
 }
